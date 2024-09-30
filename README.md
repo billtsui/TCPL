@@ -1,7 +1,8 @@
-# The C Programming Language (Second Edition) exercise answers
+# The C Programming Language (2nd Edition) Exercise Answers
 
-# C 程序设计语言（第2版）习题答案
+If it helps you, please **watch** or **star** this repository.
 
-这个库是用来保存 **[C程序设计语言](https://book.douban.com/subject/33400767/)** 习题答案的库。
+This repository is used to store the answers of exercises in **[The C Programming Language, 2nd Edition](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)**.
 
-所有答案均采用 C11 标准。
+I will try to complete all the exercises in the book. If you find any errors or have any suggestions, please feel free to open an issue or pull request.
+
